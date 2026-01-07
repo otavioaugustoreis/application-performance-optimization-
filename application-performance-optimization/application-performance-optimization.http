@@ -1,0 +1,6 @@
+@application_performance_optimization_HostAddress = http://localhost:5214
+
+GET {{application_performance_optimization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
